@@ -1,0 +1,20 @@
+# Legacy specialty URLs → new namespaced routes (preserve inbound links / SEO)
+/specialties        /services                       301
+/anxiety            /services/anxiety               301
+/depression         /services/depression            301
+/ptsd               /services/ptsd                  301
+/grief              /services/grief                 301
+/ocd                /services/ocd                   301
+/phobias            /services/phobias               301
+/substance-abuse    /services/substance-abuse       301
+/contact            /#about                         301
+
+# Legacy team profile URLs that changed slug or lived at the root
+/tatiana-gerhardt       /team/tatiana-gerhardt      301
+/giovana-lippi          /team/giovana-lippi         301
+/team/loreley-castro-2  /team/loreley-castro        301
+/team/lauren-pintar-2   /team/lauren-pintar         301
+
+# Single-page app: serve index.html for any unknown path (real static files
+# like /assets/* take precedence, so this only catches misses).
+/*  /index.html  200
