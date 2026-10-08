@@ -266,6 +266,7 @@ export const TEAM: Member[] = [
       'Fluent in Portuguese and English, she brings a unique multicultural perspective to therapy, creating a safe and supportive environment where clients feel heard, understood, and empowered to grow.',
     ],
   },
+  },
   {
     slug: 'graziela-silva',
     name: 'Graziela D. Silva',
