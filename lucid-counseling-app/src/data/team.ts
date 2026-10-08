@@ -261,11 +261,14 @@ export const TEAM: Member[] = [
       'Emotionally Focused Therapy (EFT)',
       'EMDR therapy',
       'Hypnotherapy',
-      'Attachment-based counseling', 'English', 'Portuguese' 'Elica specializes in helping couples, families, and individuals strengthen relationships, heal emotional wounds, and build lasting emotional connections.',
+      'Attachment-based counseling', 
+      ],
+    languages: ['English', 'Portuguese'],
+    bio: [
+      'Elica specializes in helping couples, families, and individuals strengthen relationships, heal emotional wounds, and build lasting emotional connections.',
       'Her approach is compassionate, culturally sensitive, and grounded in attachment-based and Emotionally Focused Therapy (EFT).',
       'Fluent in Portuguese and English, she brings a unique multicultural perspective to therapy, creating a safe and supportive environment where clients feel heard, understood, and empowered to grow.',
     ],
-  },
   },
   {
     slug: 'graziela-silva',
