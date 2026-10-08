@@ -250,7 +250,7 @@ export const TEAM: Member[] = [
       'She emphasizes cultural humility — believing culture shapes how families understand their struggles and define healing — and helps clients reframe difficulties and reclaim their strengths.',
     ],
   },
-{
+ {
     slug: 'elica-almeida',
     name: 'Elica Almeida',
     credentials: 'Registered Intern Marriage and Family Therapist',
