@@ -250,7 +250,7 @@ export const TEAM: Member[] = [
       'She emphasizes cultural humility — believing culture shapes how families understand their struggles and define healing — and helps clients reframe difficulties and reclaim their strengths.',
     ],
   },
- {
+   {
     slug: 'elica-almeida',
     name: 'Elica Almeida',
     credentials: 'Registered Intern Marriage and Family Therapist',
@@ -261,7 +261,7 @@ export const TEAM: Member[] = [
       'Emotionally Focused Therapy (EFT)',
       'EMDR therapy',
       'Hypnotherapy',
-      'Attachment-based counseling', 'Elica specializes in helping couples, families, and individuals strengthen relationships, heal emotional wounds, and build lasting emotional connections.',
+      'Attachment-based counseling', 'English', 'Portuguese' 'Elica specializes in helping couples, families, and individuals strengthen relationships, heal emotional wounds, and build lasting emotional connections.',
       'Her approach is compassionate, culturally sensitive, and grounded in attachment-based and Emotionally Focused Therapy (EFT).',
       'Fluent in Portuguese and English, she brings a unique multicultural perspective to therapy, creating a safe and supportive environment where clients feel heard, understood, and empowered to grow.',
     ],
