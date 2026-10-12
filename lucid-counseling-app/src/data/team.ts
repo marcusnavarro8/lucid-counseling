@@ -388,7 +388,7 @@ export const TEAM: Member[] = [
     ],
   },
   {
-  slug: 'vania-castro',
+  slug: 'vania-castro', 
   name: 'Vania Castro',
   credentials: 'Marriage & Family Therapy Practicum Student',
   role: 'Marriage & Family Therapy Practicum Student',
