@@ -371,9 +371,9 @@ export const TEAM: Member[] = [
   {
     slug: 'tatiana-gerhardt',
     name: 'Tatiana Gerhardt',
-    credentials: 'Student Intern Mental Health Counselor',
-    role: 'Student Intern Mental Health Counselor',
-    license: 'Student Intern',
+    credentials: 'Registered Intern Marriage and Family Therapist',
+    role: 'Registered Intern Marriage and Family Therapist',
+    license: 'Registered Intern',
     focus: 'Career, growth & life transitions',
     specialties: [
       'Career development & workplace stress',
