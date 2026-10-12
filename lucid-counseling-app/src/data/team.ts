@@ -390,8 +390,8 @@ export const TEAM: Member[] = [
    {
   slug: 'vania-castro', 
   name: 'Vania Castro',
-  credentials: 'Marriage & Family Therapy Practicum Student',
-  role: 'Marriage & Family Therapy Practicum Student',
+  credentials: 'Student Intern Marriage and Family Therapist',
+  role: 'Student Intern Marriage and Family Therapist',
   license: 'Student Intern',
   focus: 'Individuals, couples & families, culturally responsive',
   specialties: [
