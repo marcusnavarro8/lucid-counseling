@@ -134,7 +134,7 @@ export const TEAM: Member[] = [
     languages: ['English'],
     bio: [
       'Brittaney focuses on promoting deeper connection, supporting healing, and building resiliency within families.',
-      'She brings over 12 years of experience in non-profit Christian ministry and is completing her master’s in Marriage and Family Therapy through Capella University.',
+      'She brings over 12 years of experience in non-profit Christian ministry and uses trauma informed theorical approach for healing.',
     ],
   },
   {
