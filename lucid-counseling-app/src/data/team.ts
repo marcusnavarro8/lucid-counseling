@@ -387,6 +387,25 @@ export const TEAM: Member[] = [
       'Her compassionate, integrative, and faith-informed approach meets clients where they are, tailoring care to each person and to diverse communities.',
     ],
   },
+   {
+  slug: 'vania-castro', 
+  name: 'Vania Castro',
+  credentials: 'Marriage & Family Therapy Practicum Student',
+  role: 'Marriage & Family Therapy Practicum Student',
+  license: 'Student Intern',
+  focus: 'Individuals, couples & families, culturally responsive',
+  specialties: [
+    'Couples & family therapy',
+    'Anxiety, stress & burnout',
+    'Grief & family conflict',
+    'Faith-integrated counseling (optional)',
+  ],
+  languages: ['English', 'Portuguese'],
+  bio: [
+    'Vania helps individuals, couples, and families strengthen their emotional well-being and work through life’s challenges, including anxiety, relationship strain, family conflict, and grief, in a collaborative, supportive space.',
+    'She approaches each client with cultural humility, focusing on self-awareness, emotional regulation, and practical coping skills, and can integrate faith into sessions in a way that fits each client’s beliefs.',
+  ],
+},
 ];
 
 export const getMember = (slug: string) => TEAM.find((m) => m.slug === slug);
