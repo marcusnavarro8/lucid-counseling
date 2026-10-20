@@ -389,7 +389,7 @@ const ALL_TEAM: Member[] = [  {
   {
   slug: 'isabel-rinaldi',
   name: 'Isabel Rinaldi',
-  credentials: 'IMFT',
+  credentials: 'Registered Intern Marriage and Family Therapist',
   role: 'Registered Intern Marriage and Family Therapist',
   license: 'Registered Intern',
   focus: 'Individuals, couples, and families',
