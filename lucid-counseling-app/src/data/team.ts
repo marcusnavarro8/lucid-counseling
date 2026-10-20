@@ -80,25 +80,6 @@ export const TEAM: Member[] = [
     ],
   },
   {
-    slug: 'debbye-lopez',
-    name: 'Dr. Debbye Lopéz-Ramos',
-    credentials: 'LMFT',
-    role: 'Licensed Marriage and Family Therapist',
-    license: 'Licensed',
-    focus: 'Multicultural & holistic counseling',
-    specialties: [
-      'Multicultural & inner-city counseling',
-      'Emotional & behavioral concerns',
-      'Holistic, eclectic modalities',
-    ],
-    languages: ['English', 'Spanish'],
-    bio: [
-      'Dr. Lopéz-Ramos is a calm, compassionate therapist who brings a wide range of clinical competencies to her work.',
-      'She helps clients discover coping skills and problem-solving strategies within a warm, nonjudgmental environment.',
-      'She believes every person has the innate potential to thrive and overcome life’s challenges.',
-    ],
-  },
-  {
     slug: 'alexis-lane',
     name: 'Alexis Lane',
     credentials: 'LMHC',
