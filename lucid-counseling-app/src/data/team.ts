@@ -409,7 +409,16 @@ export const TEAM: Member[] = [
   ]
 },
 ];
-
+const LICENSE_ORDER: Record<License, number> = {
+  'Director': 0,
+  'Staff': 1,
+  'Licensed': 2,
+  'Registered Intern': 3,
+  'Student Intern': 4,
+};
+export const TEAM: Member[] = [...ALL_TEAM].sort(
+  (a, b) => LICENSE_ORDER[a.license] - LICENSE_ORDER[b.license]
+);
 export const getMember = (slug: string) => TEAM.find((m) => m.slug === slug);
 
 // Non-clinical staff aren't booked — they're contacted.
