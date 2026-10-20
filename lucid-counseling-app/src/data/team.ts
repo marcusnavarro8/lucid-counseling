@@ -26,8 +26,7 @@ export type Member = {
   email?: string; // non-clinical staff are contacted directly, not booked
 };
 
-export const TEAM: Member[] = [
-  {
+const ALL_TEAM: Member[] = [  {
     slug: 'paula-navarro',
     name: 'Paula Sarai Navarro',
     credentials: 'LMFT',
