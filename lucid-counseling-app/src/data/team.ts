@@ -406,6 +406,27 @@ export const TEAM: Member[] = [
     'She approaches each client with cultural humility, focusing on self-awareness, emotional regulation, and practical coping skills, and can integrate faith into sessions in a way that fits each client’s beliefs.',
   ],
 },
+  {
+  slug: "isabel-rinaldi",
+  name: "Isabel Rinaldi",
+  credentials: "IMFT",
+  role: "Registered Intern Marriage and Family Therapist",
+  license: "Registered Intern Marriage and Family Therapist",
+  focus: "Individuals, couples, and families",
+  specialties: [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Family Systems Therapy",
+    "Couples and Family Therapy",
+    "Parenting Support and Guidance",
+    "Emotional Regulation and Self-Awareness",
+    "Relationship and Communication Challenges"
+  ],
+  languages: ["English", "Portuguese"],
+  bio: [
+    "Isabel is a Registered Intern Marriage and Family Therapist with a background in Psychology and Neuropsychology and over a decade of experience in psychology, coaching, and personal development. She helps individuals, couples, and families work through emotional challenges, strengthen their relationships, and understand the patterns that shape their thoughts, feelings, and behaviors. Her approach is warm, compassionate, and collaborative, with attention to emotional awareness, relational patterns, and the family and cultural context behind each person's experience.",
+    "Originally from Brazil and fluent in Portuguese and English, Isabel brings a multicultural perspective to her work. Her Christian faith is an important part of her life, and when clients welcome it, she respectfully brings faith into therapy while honoring each person's own beliefs and values. She works to create a safe, supportive space where clients feel heard, understood, and empowered to make meaningful change."
+  ]
+},
 ];
 
 export const getMember = (slug: string) => TEAM.find((m) => m.slug === slug);
