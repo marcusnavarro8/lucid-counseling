@@ -389,9 +389,9 @@ const ALL_TEAM: Member[] = [  {
   {
   slug: 'isabel-rinaldi',
   name: 'Isabel Rinaldi',
-  credentials: 'Registered Intern Marriage and Family Therapist',
-  role: 'Registered Intern Marriage and Family Therapist',
-  license: 'Registered Intern',
+  credentials: 'Student Intern Marriage and Family Therapist',
+  role: 'Student Intern Marriage and Family Therapist',
+  license: 'Student Intern',
   focus: 'Individuals, couples, and families',
   specialties: [
     'Cognitive Behavioral Therapy (CBT)',
