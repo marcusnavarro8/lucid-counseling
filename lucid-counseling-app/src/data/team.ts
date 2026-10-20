@@ -388,7 +388,7 @@ const ALL_TEAM: Member[] = [  {
 },
   {
   slug: 'isabel-rinaldi',
-  name: 'Isabel Rinaldi',
+  name: 'Isabel Rinaldi General',
   credentials: 'Student Intern Marriage and Family Therapist',
   role: 'Student Intern Marriage and Family Therapist',
   license: 'Student Intern',
