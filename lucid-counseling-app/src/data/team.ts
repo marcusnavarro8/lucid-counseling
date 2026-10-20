@@ -409,7 +409,7 @@ export const TEAM: Member[] = [
   {
   slug: "isabel-rinaldi",
   name: "Isabel Rinaldi",
-  credentials: "IMFT",
+  credentials: "Registered Intern",
   role: "Registered Intern Marriage and Family Therapist",
   license: "Registered Intern Marriage and Family Therapist",
   focus: "Individuals, couples, and families",
